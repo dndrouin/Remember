@@ -1,0 +1,6 @@
+## Interface: 11302
+## Title: Remember
+## Notes: Reminds the user to do things they've input when they get to a capital city.
+## Author: Danielle Drouin
+
+remember.lua
