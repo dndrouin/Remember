@@ -12,7 +12,9 @@ Tired of flying back to *Stranglethorn Vale* from *Stormwind City* just to reali
  - `/remember help` Lists these commands and how to use them.
  
  **Screenshots:**
+ 
  ![When maximized](https://i.gyazo.com/b03f45d71ca639cca751d81de39383c8.png)
+ 
 ## Current Features <sup>(accurate as of October 21st, 2019)</sup>
 - Custom reminders can be *only added* using slash commands in in-game chat. <sup>Unfortunately, the UI overhaul broke removing them so it's temporarily commented out. </sup>
 - Outside of cities, the minimized window will be shown letting you know how many reminders you've created.
