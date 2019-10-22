@@ -20,13 +20,13 @@ Tired of flying back to *Stranglethorn Vale* from *Stormwind City* just to reali
 - Outside of cities, the minimized window will be shown letting you know how many reminders you've created.
 - When you enter a city, it switches to the maximized window allowing you to see your full list of reminders.
 - You can also maximize and minimize the window whenever by clicking the arrow in the corner.
-- Right click a listed reminder to mark it as completed.
+- Left click a listed reminder to mark it as completed.
 
 ## Future Features
 Definitely happening:
 - Saving reminders per character so /reload and logging out doesn't delete them
 - Fixing the removal of reminders
-- Left clicking reminders to delete them
+- Right clicking reminders to delete them
 - Less reliance on slash commands, more reliance on UI components
 - Adding an options button on the top bar
 
